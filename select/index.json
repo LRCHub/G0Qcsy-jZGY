@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "SAMBA DE 恋して",
+  "base_artist": "PE'Z",
+  "createdAt": "2025-12-01T13:03:39.748295Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Samba de Orfeu (1997 Remastered)",
+      "artist": "Ray Anthony",
+      "has_synced": false,
+      "path": "select/01_Samba_de_Orfeu_(1997_Remastered)_Ray_Anthony.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Samba De Orfeu (Remastered)",
+      "artist": "Ray Anthony",
+      "has_synced": false,
+      "path": "select/02_Samba_De_Orfeu_(Remastered)_Ray_Anthony.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Samba de Janeiro",
+      "artist": "Bellini",
+      "has_synced": false,
+      "path": "select/03_Samba_de_Janeiro_Bellini.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Samba De Janeiro (Club Mix)",
+      "artist": "Bellini",
+      "has_synced": true,
+      "path": "select/04_Samba_De_Janeiro_(Club_Mix)_Bellini.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Samba de Janeiro (club mix)",
+      "artist": "Bellini",
+      "has_synced": true,
+      "path": "select/05_Samba_de_Janeiro_(club_mix)_Bellini.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Samba de Orly",
+      "artist": "Chico Buarque",
+      "has_synced": true,
+      "path": "select/06_Samba_de_Orly_Chico_Buarque.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Samba De Duas Notas (Two Note Samba)",
+      "artist": "Stan Getz",
+      "has_synced": false,
+      "path": "select/07_Samba_De_Duas_Notas_(Two_Note_Samba)_Stan_Getz.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Samba De Uma Nota So (One Note Samba)",
+      "artist": "Stan Getz",
+      "has_synced": false,
+      "path": "select/08_Samba_De_Uma_Nota_So_(One_Note_Samba)_Stan_Getz.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Samba de Janeiro",
+      "artist": "Bellini",
+      "has_synced": true,
+      "path": "select/09_Samba_de_Janeiro_Bellini.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Samba de Carry on!",
+      "artist": "仙台貨物",
+      "has_synced": false,
+      "path": "select/pl_01_Samba_de_Carry_on!_仙台貨物.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Samba De Tokyo",
+      "artist": "仙台貨物",
+      "has_synced": false,
+      "path": "select/pl_02_Samba_De_Tokyo_仙台貨物.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Samba De Janeiro",
+      "artist": "仙台貨物",
+      "has_synced": false,
+      "path": "select/pl_03_Samba_De_Janeiro_仙台貨物.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Samba De Uma Nota Só",
+      "artist": "仙台貨物",
+      "has_synced": false,
+      "path": "select/pl_04_Samba_De_Uma_Nota_Só_仙台貨物.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Samba de Uma Nota So",
+      "artist": "仙台貨物",
+      "has_synced": false,
+      "path": "select/pl_05_Samba_de_Uma_Nota_So_仙台貨物.txt"
+    }
+  ]
+}
